@@ -1,4 +1,4 @@
-# 直连列表
+# 全球直连列表
 
 # MyList
 DOMAIN-SUFFIX,nasfun.com
@@ -8,3 +8,5 @@ DOMAIN-SUFFIX,ooklaserver.net
 DOMAIN-SUFFIX,speedtest.net
 DOMAIN-KEYWORD,ookla
 DOMAIN-KEYWORD,speedtest
+DOMAIN,services.googleapis.cn
+DOMAIN-SUFFIX,xn--ngstr-lra8j.com
