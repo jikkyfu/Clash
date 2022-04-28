@@ -6,6 +6,8 @@ DOMAIN-SUFFIX,hostloc.com
 DOMAIN-SUFFIX,test-ipv6.com
 DOMAIN-SUFFIX,ooklaserver.net
 DOMAIN-SUFFIX,speedtest.net
+DOMAIN-SUFFIX,163.com
+DOMAIN-SUFFIX,aliyun.com
 DOMAIN-KEYWORD,ookla
 DOMAIN-KEYWORD,speedtest
 DOMAIN,services.googleapis.cn
