@@ -8,6 +8,7 @@ DOMAIN-SUFFIX,ooklaserver.net
 DOMAIN-SUFFIX,speedtest.net
 DOMAIN-SUFFIX,163.com
 DOMAIN-SUFFIX,aliyun.com
+DOMAIN-SUFFIX,mikrotik.com
 DOMAIN-KEYWORD,ookla
 DOMAIN-KEYWORD,speedtest
 DOMAIN,services.googleapis.cn
