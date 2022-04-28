@@ -8,8 +8,9 @@ DOMAIN-SUFFIX,ooklaserver.net
 DOMAIN-SUFFIX,speedtest.net
 DOMAIN-SUFFIX,163.com
 DOMAIN-SUFFIX,aliyun.com
-DOMAIN-SUFFIX,download.mikrotik.com
-##IP-CIDR,159.148.147.0/24,no-resolve
+DOMAIN-SUFFIX,mikrotik.com
+IP-CIDR,159.148.147.0/24,no-resolve
+IP-CIDR,159.148.172.0/24,no-resolve
 DOMAIN-KEYWORD,ookla
 DOMAIN-KEYWORD,speedtest
 DOMAIN,services.googleapis.cn
