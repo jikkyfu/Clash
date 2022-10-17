@@ -2,7 +2,6 @@
 
 # MyList
 DOMAIN-SUFFIX,nasfun.com
-DOMAIN-SUFFIX,hostloc.com
 DOMAIN-SUFFIX,pcbeta.com
 DOMAIN-SUFFIX,checkip.synology.com
 DOMAIN-SUFFIX,test-ipv6.com
@@ -17,4 +16,3 @@ DOMAIN,services.googleapis.cn
 DOMAIN-SUFFIX,xn--ngstr-lra8j.com
 IP-CIDR,159.148.147.0/24,no-resolve
 IP-CIDR,159.148.172.0/24,no-resolve
-
