@@ -5,5 +5,7 @@
 # MyListProxy
 #DOMAIN,services.googleapis.cn
 #DOMAIN-SUFFIX,xn--ngstr-lra8j.com
+DOMAIN,services.googleapis.cn
+DOMAIN,translate.googleapis.com
 DOMAIN-SUFFIX,docker.com
 DOMAIN-KEYWORD,mypikpak
