@@ -9,10 +9,7 @@ DOMAIN-SUFFIX,ooklaserver.net
 DOMAIN-SUFFIX,speedtest.net
 DOMAIN-SUFFIX,163.com
 DOMAIN-SUFFIX,aliyun.com
-DOMAIN-SUFFIX,mikrotik.com
 DOMAIN-KEYWORD,ookla
 DOMAIN-KEYWORD,speedtest
 DOMAIN,services.googleapis.cn
 DOMAIN-SUFFIX,xn--ngstr-lra8j.com
-IP-CIDR,159.148.147.0/24,no-resolve
-IP-CIDR,159.148.172.0/24,no-resolve
