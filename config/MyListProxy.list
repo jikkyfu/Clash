@@ -9,3 +9,6 @@ DOMAIN,services.googleapis.cn
 DOMAIN,translate.googleapis.com
 DOMAIN-SUFFIX,docker.com
 DOMAIN-KEYWORD,mypikpak
+DOMAIN-SUFFIX,mikrotik.com
+IP-CIDR,159.148.147.0/24,no-resolve
+IP-CIDR,159.148.172.0/24,no-resolve
