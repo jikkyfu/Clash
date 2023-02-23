@@ -1,5 +1,6 @@
 # 全球直连列表
-
+# DOMAIN,services.googleapis.cn
+# DOMAIN-SUFFIX,xn--ngstr-lra8j.com
 # MyList
 DOMAIN-SUFFIX,nasfun.com
 DOMAIN-SUFFIX,pcbeta.com
@@ -11,5 +12,3 @@ DOMAIN-SUFFIX,163.com
 DOMAIN-SUFFIX,aliyun.com
 DOMAIN-KEYWORD,ookla
 DOMAIN-KEYWORD,speedtest
-DOMAIN,services.googleapis.cn
-DOMAIN-SUFFIX,xn--ngstr-lra8j.com
