@@ -2,6 +2,7 @@
 # DOMAIN,services.googleapis.cn
 # DOMAIN-SUFFIX,xn--ngstr-lra8j.com
 # MyList
+# DOMAIN-SUFFIX
 DOMAIN-SUFFIX,nasfun.com
 DOMAIN-SUFFIX,pcbeta.com
 DOMAIN-SUFFIX,checkip.synology.com
@@ -11,6 +12,8 @@ DOMAIN-SUFFIX,speedtest.net
 DOMAIN-SUFFIX,legado.cn
 DOMAIN-SUFFIX,163.com
 DOMAIN-SUFFIX,aliyun.com
+DOMAIN-SUFFIX,3uxiaoshuo.com
+DOMAIN-SUFFIX,ivipxs.com
+# DOMAIN-KEYWORD
 DOMAIN-KEYWORD,ookla
 DOMAIN-KEYWORD,speedtest
-DOMAIN-KEYWORD,ivipxs
