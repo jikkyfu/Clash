@@ -7,7 +7,5 @@
 #DOMAIN-SUFFIX,xn--ngstr-lra8j.com
 DOMAIN,services.googleapis.cn
 DOMAIN,translate.googleapis.com
-DOMAIN-SUFFIX,docker.com
-DOMAIN-SUFFIX,docker.io
 DOMAIN-KEYWORD,mypikpak
 DOMAIN-SUFFIX,mikrotik.com
