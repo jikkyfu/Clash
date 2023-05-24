@@ -102,7 +102,6 @@ DOMAIN-SUFFIX,eurekavpt.com
 DOMAIN-SUFFIX,fastmail.com
 DOMAIN-SUFFIX,firebaseio.com
 DOMAIN-SUFFIX,flickr.com
-DOMAIN-SUFFIX,flipboard.com
 DOMAIN-SUFFIX,gfx.ms
 DOMAIN-SUFFIX,gongm.in
 DOMAIN-SUFFIX,hulu.com
@@ -192,6 +191,7 @@ DOMAIN-SUFFIX,bbc.com
 # Developer 开发者常用国外网站、镜像和论坛
 DOMAIN-SUFFIX,apache.org
 DOMAIN-SUFFIX,docker.com
+DOMAIN-SUFFIX,docker.io
 DOMAIN-SUFFIX,elastic.co
 DOMAIN-SUFFIX,elastic.com
 DOMAIN-SUFFIX,gcr.io
