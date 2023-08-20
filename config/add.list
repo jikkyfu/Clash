@@ -1,3 +1,4 @@
+# local ip address
 192.168.0.0/16
 10.0.0.96/28
 10.0.1.1/24
@@ -8,7 +9,7 @@
 172.22.0.1/24
 1.12.12.12
 120.53.53.53
-
+# domain
 ui.com
 ubnt.com
 ui.com.cn
@@ -20,7 +21,6 @@ cloudaccess.svc.ui.com
 cloudaccess.svc.ubnt.com
 s3-r-w.us-west-2.amazonaws.com
 a1ewuiz2p7wdvw-ats.iot.us-west-2.amazonaws.com
-
 www.speedtest.net
 status.huyun.icu
 doc.huyun.top
