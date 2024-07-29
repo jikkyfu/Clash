@@ -10,17 +10,18 @@
 1.12.12.12
 120.53.53.53
 # domain
-ui.com
-ubnt.com
-ui.com.cn
-unifi.ui.com
+dns.weixin.qq.com.cn
 static.ui.com
+trace.svc.ui.com
+ping.ui.com
 config.ubnt.com
-network.unifi.ui.com
-cloudaccess.svc.ui.com
+static.ubnt.com
+fw-update.ubnt.com
 cloudaccess.svc.ubnt.com
-s3-r-w.us-west-2.amazonaws.com
+c3sdnuexugkg7e.credentials.iot.us-west-2.amazonaws.com
 a1ewuiz2p7wdvw-ats.iot.us-west-2.amazonaws.com
+crash-report-service.svc.ui.com
+
 # some
 www.speedtest.net
 jike.info
