@@ -6,6 +6,9 @@
 # PROCESS-NAME: 2
 # TOTAL: 173
 DOMAIN-KEYWORD,disney
+DOMAIN-SUFFIX,cloudfront.net
+DOMAIN-SUFFIX,mobile-data.onetrust.io
+DOMAIN-SUFFIX,sdk.iad-03.braze.com
 DOMAIN-SUFFIX,20thcenturystudios.com.au
 DOMAIN-SUFFIX,20thcenturystudios.com.br
 DOMAIN-SUFFIX,20thcenturystudios.jp
