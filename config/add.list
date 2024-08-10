@@ -11,6 +11,11 @@
 120.53.53.53
 # domain
 dns.weixin.qq.com.cn
+snsvideo.c2c.wechat.com
+socwxsns.video.qq.com
+wxapp.tc.qq.com
+
+#unifi
 static.ui.com
 trace.svc.ui.com
 ping.ui.com
@@ -23,22 +28,24 @@ a1ewuiz2p7wdvw-ats.iot.us-west-2.amazonaws.com
 crash-report-service.svc.ui.com
 
 # some
-www.speedtest.net
-jike.info
+#www.speedtest.net
+#jike.info
 checkip.synology.com
-pcbeta.com
+#pcbeta.com
+
 # noble
 ivipxs.com
 vipzw.info
-legado.cn
-3uxiaoshuo.com
+#legado.cn
+#3uxiaoshuo.com
+
 # vpn
-status.huyun.icu
-doc.huyun.top
-my.huyun.icu
-go.huyun.xyz
+#status.huyun.icu
+#doc.huyun.top
+#my.huyun.icu
+#go.huyun.xyz
 
 # others
-api.xcnya.cn
-www.msftconnecttest.com
-cdn2.tianli0.top
+#api.xcnya.cn
+#www.msftconnecttest.com
+#cdn2.tianli0.top
