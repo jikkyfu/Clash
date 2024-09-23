@@ -16,16 +16,16 @@ socwxsns.video.qq.com
 wxapp.tc.qq.com
 
 #unifi
-static.ui.com
-trace.svc.ui.com
-ping.ui.com
-config.ubnt.com
-static.ubnt.com
-fw-update.ubnt.com
-cloudaccess.svc.ubnt.com
-c3sdnuexugkg7e.credentials.iot.us-west-2.amazonaws.com
-a1ewuiz2p7wdvw-ats.iot.us-west-2.amazonaws.com
-crash-report-service.svc.ui.com
+#static.ui.com
+#trace.svc.ui.com
+#ping.ui.com
+#config.ubnt.com
+#static.ubnt.com
+#fw-update.ubnt.com
+#cloudaccess.svc.ubnt.com
+#c3sdnuexugkg7e.credentials.iot.us-west-2.amazonaws.com
+#a1ewuiz2p7wdvw-ats.iot.us-west-2.amazonaws.com
+#crash-report-service.svc.ui.com
 
 # some
 #www.speedtest.net
