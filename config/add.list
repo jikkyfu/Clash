@@ -10,6 +10,14 @@
 1.12.12.12
 120.53.53.53
 # domain
+203.205.129.102
+203.205.234.132
+203.205.235.151
+129.226.3.47
+45.154.240.98
+129.226.0.0/16
+101.32.0.0/16
+
 dns.weixin.qq.com.cn
 snsvideo.c2c.wechat.com
 socwxsns.video.qq.com
@@ -42,10 +50,7 @@ vipzw.info
 #3uxiaoshuo.com
 
 # vpn
-#status.huyun.icu
-#doc.huyun.top
-#my.huyun.icu
-#go.huyun.xyz
+45.62.116.192
 
 # others
 #api.xcnya.cn
