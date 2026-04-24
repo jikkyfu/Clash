@@ -25,10 +25,10 @@ uc.pcbeta.com
 bbs.pcbeta.com
 www.pcbeta.com
 
-dns.weixin.qq.com.cn
-snsvideo.c2c.wechat.com
-socwxsns.video.qq.com
-wxapp.tc.qq.com
+# dns.weixin.qq.com.cn
+# snsvideo.c2c.wechat.com
+# socwxsns.video.qq.com
+# wxapp.tc.qq.com
 
 #unifi
 #static.ui.com
@@ -49,10 +49,10 @@ checkip.synology.com
 #pcbeta.com
 
 # noble
-xvipxs.net
-ivipxs.com
-ivipxs.info
-vipzw.info
+#xvipxs.net
+#ivipxs.com
+#ivipxs.info
+#vipzw.info
 #legado.cn
 #3uxiaoshuo.com
 
