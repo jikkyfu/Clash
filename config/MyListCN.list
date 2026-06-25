@@ -1,28 +1,37 @@
-# 全球直连列表
-# DOMAIN,services.googleapis.cn
-# DOMAIN-SUFFIX,xn--ngstr-lra8j.com
-# MyList
-# DOMAIN-SUFFIX
-DOMAIN-SUFFIX,nasfun.com
-DOMAIN-SUFFIX,invite.linuxdo.org
-DOMAIN-SUFFIX,pcbeta.com
-DOMAIN-SUFFIX,qq.ccom
-DOMAIN-SUFFIX,weixin.com
-DOMAIN-SUFFIX,qpic.cn
-DOMAIN-SUFFIX,servicewechat.com
-DOMAIN-SUFFIX,qlogo.cn
-DOMAIN-SUFFIX,qpic.cn
-DOMAIN-SUFFIX,checkip.synology.com
-DOMAIN-SUFFIX,legado.cn
-DOMAIN-SUFFIX,3uxiaoshuo.com
-DOMAIN-SUFFIX,ivipxs.com
-DOMAIN-SUFFIX,vipzw.info
-DOMAIN-SUFFIX,jike.info
-DOMAIN-SUFFIX,gfnormal05at.com
-DOMAIN-SUFFIX,twilio.com
-DOMAIN-SUFFIX,qqwry.api.skk.moe
-# DOMAIN-KEYWORD
-DOMAIN-KEYWORD,ookla
-DOMAIN-KEYWORD,speedtest
-# huyun
-#IP-CIDR,43.153.188.168/32,no-resolve
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain": [
+        "invite.linuxdo.org"
+      ],
+      "domain_suffix": [
+        "3uxiaoshuo.com",
+        "checkip.synology.com",
+        "gfnormal05at.com",
+        "ivipxs.com",
+        "jike.info",
+        "legado.cn",
+        "nasfun.com",
+        "pcbeta.com",
+        "qlogo.cn",
+        "qpic.cn",
+        "qq.ccom",
+        "qqwry.api.skk.moe",
+        "servicewechat.com",
+        "twilio.com",
+        "vipzw.info",
+        "weixin.com"
+      ],
+      "domain_keyword": [
+      	"jsdelivr",
+        "ookla",
+        "speedtest"
+      ],
+      "ip_cidr": [
+      	"144.34.232.204/32",
+        "43.153.188.168/32"
+      ]
+    }
+  ]
+}
